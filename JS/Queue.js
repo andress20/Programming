@@ -25,4 +25,3 @@ function Queue() {
 			console.log(this.dataStore)
 		}
 }
-
