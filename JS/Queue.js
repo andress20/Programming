@@ -10,7 +10,9 @@ function Queue() {
 		this.dataStore.push(element);
 	}
 	function dequeue() {
-		return this.dataStore.shift();
+		let element = this.dataStore[0]
+		this.dataStore.shift();
+		return element
 	}
 	function emptyQueue() {
 		return this.dataStore = [];
