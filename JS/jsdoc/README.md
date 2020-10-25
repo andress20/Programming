@@ -1,3 +1,5 @@
+INSTALATION AND SETUP JSDOC (CREATE AUTOMATIC DOCUMENTATION)
+
 1. npm init => create package.json
 2. npm install --save-dev jsdoc  (No local instalation just project)
 3. create jsdoc.json in the main project directory (./root) => jsdoc is the config file 
