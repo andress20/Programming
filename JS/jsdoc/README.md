@@ -1,4 +1,4 @@
-INSTALATION AND SETUP JSDOC (CREATE AUTOMATIC DOCUMENTATION)
+INSTALATION AND SETUP JSDOC (CREATE AUTOMATIC DOCUMENTATION) 
 
 1. npm init => create package.json
 2. npm install --save-dev jsdoc  (No local instalation just project)
@@ -7,5 +7,5 @@ INSTALATION AND SETUP JSDOC (CREATE AUTOMATIC DOCUMENTATION)
 
     "docs": "jsdoc -c jsdoc.json"
 
-5. create src folder and index.js file => in root project directory
+5. create src folder and index.js file => in root project directory (index.js and any other file here are gonna be reading for bulild the documentation html file)
 6. npm run docs => this creates docs folder and index.html file (this is the final documentation)
