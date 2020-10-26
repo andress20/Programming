@@ -1,4 +1,4 @@
-INSTALATION AND SETUP JSDOC (CREATE AUTOMATIC DOCUMENTATION) 
+INSTALATION AND SETUP JSDOC (CREATE AUTOMATIC WEB DOCUMENTATION) 
 
 1. npm init => create package.json
 2. npm install --save-dev jsdoc  (No local instalation just project)
