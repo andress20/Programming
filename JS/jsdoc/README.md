@@ -9,3 +9,5 @@ INSTALATION AND SETUP JSDOC (CREATE AUTOMATIC WEB DOCUMENTATION)
 
 5. create src folder and index.js file => in root project directory (index.js and any other file here are gonna be reading for bulild the documentation html file)
 6. npm run docs => this creates docs folder and index.html file (this is the final documentation)
+
+nueva linea
