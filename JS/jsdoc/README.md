@@ -11,3 +11,4 @@ INSTALATION AND SETUP JSDOC (CREATE AUTOMATIC WEB DOCUMENTATION)
 6. npm run docs => this creates docs folder and index.html file (this is the final documentation)
 
 nueva linea
+segunda linea
